@@ -9,5 +9,6 @@
     <AssemblyName>ClaudeUsageWidget</AssemblyName>
     <RootNamespace>ClaudeUsageWidget</RootNamespace>
     <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <ApplicationIcon>app.ico</ApplicationIcon>
   </PropertyGroup>
 </Project>
